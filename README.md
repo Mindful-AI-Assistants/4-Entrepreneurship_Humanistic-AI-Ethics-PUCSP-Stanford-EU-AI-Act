@@ -8,8 +8,4 @@
 <br><br>
 
 
-
-# Humanistic-AI Ethics PUCSP HAI Stanford and EU-AI-Act
-### Human-Centered-AI-Ethics-Compliance-Research
-
-
+Compliance
