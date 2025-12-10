@@ -1,0 +1,1 @@
+# Humanistic-AI-Ethics-PUCSP-Stanford-EU-AI-Act
