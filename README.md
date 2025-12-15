@@ -58,7 +58,7 @@ ADDRESSING COMPUTER-GENERATED CHILD SEX ABUSE IMAGERY - [LEGAL FRAMEWORK AND POL
 
 <br>
 
- Insights from Educators, Platforms - [Law Enforcement, Legislators and Victims](https://github.com/Mindful-AI-Assistants/Humanistic-AI-Ethics-PUCSP-Stanford-EU-AI-Act/blob/5a2a1eedf6566af3f96b3c498a679e95a1846cd4/Insights%20from%20Educators%2C%20Platforms%20-%20Law%20Enforcement%2C%20Legislators%20and%20Victims.pdf
+ Insights from Educators, Platforms - [Law Enforcement, Legislators and Victims](https://github.com/Mindful-AI-Assistants/Humanistic-AI-Ethics-PUCSP-Stanford-EU-AI-Act/blob/5a2a1eedf6566af3f96b3c498a679e95a1846cd4/Insights%20from%20Educators%2C%20Platforms%20-%20Law%20Enforcement%2C%20Legislators%20and%20Victims.pdf)
 
 
 <br>
