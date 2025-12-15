@@ -16,8 +16,11 @@
 <br><br>
 
 
-### [Stanford AI Experts Predict What Will Happen in 2026](https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026)
-
+> [!IMPORTANT]
+> 
+> * [Stanford AI Experts Predict What Will Happen in 2026](https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026)
+> <br>
+>
 
 <br><br>
 
