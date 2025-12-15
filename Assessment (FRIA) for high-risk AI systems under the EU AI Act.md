@@ -1,7 +1,12 @@
 
-
+<br>
 
 ### Acess The [Fundamental Rights Impact Assessments(FRIA) GRIDE HERE](https://github.com/Mindful-AI-Assistants/Humanistic-AI-Ethics-PUCSP-Stanford-EU-AI-Act/blob/7515741c7c1ccf00d56fd1eff634988f5363325a/%20Assessment%20(FRIA)%20for%20high-risk%20AI%20systems%20under%20the%20EU%20AI%20Act-December%202025.pdf)
+
+<br>
+
+
+### [YouTube](https://youtu.be/CKDw0dPY8_Y?si=lNWjv8PAYuWA0OV7) - The Token Arbitrage: Groq vs. DeepInfra vs. Cerebras vs fireworks (2025 Benchmark)
 
 <br>
 
